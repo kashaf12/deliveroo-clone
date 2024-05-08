@@ -7,10 +7,9 @@ import { store } from "./store";
 import BasketScreen from "./screens/BasketScreen";
 import PreparingOrderScreen from "./screens/PreparingOrderScreen";
 import DeliveryScreen from "./screens/DeliveryScreen";
-import { LogBox } from "react-native";
 
 const Stack = createNativeStackNavigator();
-LogBox.ignoreAllLogs();
+
 export default function App() {
   return (
     <NavigationContainer>
