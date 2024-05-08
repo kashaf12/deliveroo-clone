@@ -4,29 +4,21 @@
 
 ## Screenshots
 
-![Home Screen](./static/HomeScreen.png)  
-_Home Screen: The main landing page where users can start their food ordering journey._`
-
-![Restaurant Screen](./static/RestaurantScreen.png)  
-_Restaurant Screen: Displays details about a selected restaurant including its menu._
-
-![With Basket Screen](./static/WithBasket.png)  
-_With Basket Screen: Shows the user's current selections in the basket before checkout._
-
-![Basket Screen](./static/BasketScreen.png)  
-_Basket Screen: Allows users to review and edit items in their basket._
-
-![Place Order Screen](./static/PlaceOrderScreen.png)  
-_Place Order Screen: Where users wait before restaurant accepts the order._
-
-![Delivery Screen](./static/DeliveryScreen.png)  
-_Delivery Screen: Provides real-time updates on the delivery status of the order._
+| Screen             | Image                                                | Description                                                              |
+| ------------------ | ---------------------------------------------------- | ------------------------------------------------------------------------ |
+| Home Screen        | ![Home Screen](./static/HomeScreen.png)              | The main landing page where users can start their food ordering journey. |
+| Restaurant Screen  | ![Restaurant Screen](./static/RestaurantScreen.png)  | Displays details about a selected restaurant including its menu.         |
+| With Basket Screen | ![With Basket Screen](./static/WithBasket.png)       | Shows the user's current selections in the basket before checkout.       |
+| Basket Screen      | ![Basket Screen](./static/BasketScreen.png)          | Allows users to review and edit items in their basket.                   |
+| Place Order Screen | ![Place Order Screen](./static/PlaceOrderScreen.png) | Where users wait before restaurant accepts the order.                    |
+| Delivery Screen    | ![Delivery Screen](./static/DeliveryScreen.png)      | Provides real-time updates on the delivery status of the order.          |
 
 ## Video
 
-![Demo](./static/demo.gif)
+<p align="center">
+  <img src="./static/demo.gif" alt="Demo" width="50%" />
+</p>
 _App Demo GIF: Watch a full demo of the app in action._
-
 ## Overview
 
 This repository contains the source code for a React Native application that serves as a clone of the Deliveroo app. The application is designed to run on both iOS and Android platforms. It utilizes Sanity.io as the backend service to manage and deliver content dynamically.
