@@ -18,7 +18,9 @@
 <p align="center">
   <img src="./static/demo.gif" alt="Demo" width="50%" />
 </p>
+
 _App Demo GIF: Watch a full demo of the app in action._
+
 ## Overview
 
 This repository contains the source code for a React Native application that serves as a clone of the Deliveroo app. The application is designed to run on both iOS and Android platforms. It utilizes Sanity.io as the backend service to manage and deliver content dynamically.
